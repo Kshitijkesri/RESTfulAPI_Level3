@@ -8,10 +8,10 @@ Are you building a RESTFUL API, then this project might be helpful for you.
 
 # Project Description
 
-1) This Project covers all the RESTful constraints:-
-2) Uniform interface
-3) Client–server
-4) Stateless
-5) Cacheable
-6) Layered system
-7) Code on demand (optional)
+This Project covers all the RESTful constraints:-
+1) Uniform interface
+2) Client–server
+3) Stateless
+4) Cacheable
+5) Layered system
+6) Code on demand (optional)
