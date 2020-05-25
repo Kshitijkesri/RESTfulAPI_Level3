@@ -8,7 +8,7 @@ Are you building a RESTFUL API, then this project might be helpful for you.
 
 # Project Description
 
-This Project covers all the RESTful constraints:-
+This Project covers all the RESTful constraints and build using ASP.NET Core 3:-
 1) Uniform interface
 2) Client–server
 3) Stateless
